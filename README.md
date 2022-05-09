@@ -6,10 +6,10 @@ The aim of the project is to provide data analysis of covid-19 (a pandemic start
 ## DATA SOURES:
 
 The following sources of data are used:
-•	COVID19 Global Forecasting from Kaggle
-•	https://opendata.ecdc.europa.eu/covid19/casedistribution/csv
-•	COVID_19_INDIA from Kaggle
-•	covid_vaccine_statewise from Kaggle
+1. COVID19 Global Forecasting from Kaggle
+2. https://opendata.ecdc.europa.eu/covid19/casedistribution/csv
+3. COVID_19_INDIA from Kaggle
+4. covid_vaccine_statewise from Kaggle
 
 ## TOOLS AND TECHNIQUES:
 We have used the following data Analytics technique / methodology for analyzing the Data:
